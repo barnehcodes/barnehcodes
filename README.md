@@ -1,21 +1,73 @@
 <h1 align="center">Hi 👋, I'm Otmane El Bekkaoui</h1>
-<h3 align="center">From LLMs to ETLs – Passionate About Scalable Systems & Smart Solutions</h3>
+<h3 align="center">From LLMs to ETLs – Building Scalable Systems & Smart Solutions</h3>
 
-- 🔭 I’m currently working on **a Salesforce Project with the Orievaton Team**
-
-- 🌱 I’m currently learning **the Salesforce technology and its ecosystem**
-
-- 📝 I regularly write papers on [https://www.researchgate.net/profile/Otmane-El-Bekkaoui?ev=hdr_xprf](https://www.researchgate.net/profile/Otmane-El-Bekkaoui?ev=hdr_xprf)
-
-- 💬 Ask me about **React, LLMs, Rag, Cloud, Openstack**
-
-- 📫 How to reach me **O.elbekkaoui@aui.ma**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/otmane el bekkaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otmane el bekkaoui" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:o.elbekkaoui@aui.ma">📫 Email</a> •
+  <a href="https://www.linkedin.com/in/otmane-el-bekkaoui" target="_blank">🔗 LinkedIn</a> •
+  <a href="https://github.com/barnehcodes">💻 GitHub</a> •
+  <a href="https://www.salesforce.com/trailblazer/mtvrzslx69gh2w2i9r" target="_blank">☁️ Salesforce Trailblazer</a> •
+  <a href="https://www.researchgate.net/profile/Otmane-El-Bekkaoui?ev=hdr_xprf" target="_blank">📚 ResearchGate</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+🎓 **Graduate Software Engineering Student** at **Al Akhawayn University**, passionate about the intersection of cloud infrastructure, AI, and scalable data systems.
+
+💡 I believe in starting strong and finishing what I start — from prototypes to production-ready systems.
+
+🧠 Curious about:
+- AI/ML Engineering (RAG, LLMs, MLOps)
+- Salesforce Development
+- Data Engineering (ETLs, Warehousing, Feature Stores)
+- Distributed Systems & Cloud (Kafka, Hadoop, Ceph, OpenStack)
+
+---
+
+### 💼 Current Focus
+
+- 🔭 Working on a **Salesforce consulting project** with the **Orivaton team**
+- 🌱 Learning the **Salesforce ecosystem** (Flows, Apex, Lightning, etc.)
+- 🛠 Building and deploying end-to-end **RAG-based LLM applications**
+- 📘 Researching AI-driven ETL automation \[[ResearchGate](https://www.researchgate.net/publication/390695585_Automated_Data_Warehousing_with_AI-Driven_ETL_Revolutionizing_Data_Integration_and_Analytics_2024)\]
+
+---
+
+### 🚀 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 🤖 [**RAG-Based LLM Chatbot**](https://github.com/barnehcodes/Rag-Based-LLM_AUIChat) — Integrated with ZenML, Qdrant, HuggingFace, and Gradio
+- 🌊 [**SWAMS: Smart Water AUI Management System**](https://github.com/barnehcodes/SWAMS) — Campus-wide water usage dashboard
+- 💹 [**Gold Price Prediction**](https://github.com/barnehcodes/Gold-price-prediction-) — ML model for financial forecasting
+- 🌐 [**ORBIT 3D Platform**](https://github.com/barnehcodes/ORBIT_t) — Real-time preview and sharing of 3D models
+
+---
+
+### 📫 Reach Me
+- Email: **o.elbekkaoui@aui.ma**
+- LinkedIn: [linkedin.com/in/otmane-el-bekkaoui](https://www.linkedin.com/in/otmane-el-bekkaoui)
+- GitHub: [github.com/barnehcodes](https://github.com/barnehcodes)
+
+---
+
+> _“The future belongs to those who design it.”_
 
