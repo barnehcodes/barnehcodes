@@ -25,11 +25,8 @@
 
 ### 💼 Current Focus
 
-- 🔭 Working on a **Salesforce consulting project** with the **Orivaton team**
-- 🌱 Learning the **Salesforce ecosystem** (Flows, Apex, Lightning, etc.)
-- 🛠 Building and deploying end-to-end **RAG-based LLM applications**
-- 📘 Researching AI-driven ETL automation \[[ResearchGate](https://www.researchgate.net/publication/390695585_Automated_Data_Warehousing_with_AI-Driven_ETL_Revolutionizing_Data_Integration_and_Analytics_2024)\]
 
+- 📘 building and researching OPENAID +212,  the blockchain solution to transparent, no truct needed donation system in morrocco 
 ---
 
 ### 🚀 Tech Stack & Tools
